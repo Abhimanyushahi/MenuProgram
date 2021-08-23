@@ -1,0 +1,7 @@
+[appStream]
+baseurl=file:///run/media/root/RHEL-8-0-0-BaseOS-x86_64/AppStream' >> /etc/yum.repos.d/menuyum.repo")
+gpgcheck=0' >> /etc/yum.repos.d/menuyum.repo")
+                
+[BaseOS]
+baseurl=file:///run/media/root/RHEL-8-0-0-BaseOS-x86_64/BaseOS
+gpgcheck=0 

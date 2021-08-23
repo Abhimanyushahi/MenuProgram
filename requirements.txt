@@ -1,0 +1,4 @@
+openssh-clients-7.8p1-4.el8.x86_64
+sshpass
+figlet
+python3
